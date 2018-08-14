@@ -1,0 +1,2 @@
+# GITIDEATest
+第一次使用IDEA和GIT
